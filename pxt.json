@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "servo": "*",
-        "bluetooth": "*"
+        "servo": "*"
     },
     "files": [
         "main.blocks",
